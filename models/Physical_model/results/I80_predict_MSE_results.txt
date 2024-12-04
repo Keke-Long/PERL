@@ -1,0 +1,6 @@
+2023-08-07 23:28:44
+
+MSE when predict a of single-steps: 0.428711830296529
+MSE when predict a of multi-steps: 250339439232.95715 因为是累计预测，导致了很小的headway，因此加速度也很小
+MSE when predict v of multi-steps: 40.643388982623755
+MSE when predict y of multi-steps: 138.66298865293794

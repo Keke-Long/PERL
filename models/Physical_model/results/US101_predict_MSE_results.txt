@@ -1,0 +1,146 @@
+
+2023-08-09 19:47:46
+MSE when predict a of single-steps: 0.78285
+MSE when predict a of multi-steps: 0.46657
+MSE when predict v of multi-steps: 0.17837
+MSE when predict y of multi-steps: 104.81800
+
+2023-08-09 20:16:22
+MSE when predict a of single-steps: 0.72227
+MSE when predict a of multi-steps: 0.43403
+MSE when predict v of multi-steps: 0.17054
+MSE when predict y of multi-steps: 110.82159
+
+2023-09-14 15:40:16
+MSE when predict a of single-steps: 0.60148
+MSE when predict a of multi-steps: 0.44203
+MSE when predict v of multi-steps: 0.18166
+MSE when predict y of multi-steps: 131.76403
+
+2023-09-17 09:00:48
+MSE when predict a of single-steps: 1.15148
+MSE when predict a of multi-steps: 0.36707
+MSE when predict v of multi-steps: 0.21106
+MSE when predict y of multi-steps: 136.69993
+
+2023-09-17 09:05:29
+MSE when predict a of multi-steps: 0.36707
+MSE when predict v of multi-steps: 0.21106
+
+2023-09-17 09:28:07
+MSE when predict a of multi-steps: 0.37184
+MSE when predict v of multi-steps: 0.22222
+
+
+Newell_Average Speed MSE: 1.9196534365259776
+Newell_Average Acceleration MSE: 0.295444624249010752023-11-04 14:56:29
+MSE when predict a of single-steps: 1.70263
+MSE when predict a of multi-steps: 2.54011
+MSE when predict v of multi-steps: 1.37921
+MSE when predict y of multi-steps: 636.03256
+
+ 2023-11-04 15:11:10 FVD
+MSE when predict a of single-steps: 2.08761
+MSE when predict a of multi-steps: 3.30691
+MSE when predict v of multi-steps: 1.59637
+MSE when predict y of multi-steps: 640.34782
+
+2023-11-04 15:11:58 FVD
+MSE when predict a of single-steps: 1.71230
+MSE when predict a of multi-steps: 2.50845
+MSE when predict v of multi-steps: 1.37252
+MSE when predict y of multi-steps: 635.95357
+
+2023-11-04 15:12:23 FVD
+MSE when predict a of single-steps: 1.66606
+MSE when predict a of multi-steps: 2.52243
+MSE when predict v of multi-steps: 1.37919
+MSE when predict y of multi-steps: 636.09317
+
+2023-11-04 15:14:50 FVD
+MSE when predict a of single-steps: 1.99974
+MSE when predict a of multi-steps: 2.83833
+MSE when predict v of multi-steps: 1.46047
+MSE when predict y of multi-steps: 636.03738
+
+2023-11-04 15:15:23 FVD
+MSE when predict a of single-steps: 2.10370
+MSE when predict a of multi-steps: 2.91322
+MSE when predict v of multi-steps: 1.47777
+MSE when predict y of multi-steps: 635.95103
+
+2023-11-04 15:16:00 FVD
+MSE when predict a of single-steps: 1.93966
+MSE when predict a of multi-steps: 2.74620
+MSE when predict v of multi-steps: 1.43784
+MSE when predict y of multi-steps: 635.98711
+
+2023-11-04 15:16:47 FVD
+MSE when predict a of single-steps: 1.58907
+MSE when predict a of multi-steps: 2.38318
+MSE when predict v of multi-steps: 1.33229
+MSE when predict y of multi-steps: 635.88956
+
+2023-11-04 15:20:57 FVD
+MSE when predict a of single-steps: 1.56587
+MSE when predict a of multi-steps: 2.30597
+MSE when predict v of multi-steps: 1.31250
+MSE when predict y of multi-steps: 635.88103
+
+2023-11-04 15:21:28 FVD
+MSE when predict a of single-steps: 1.94745
+MSE when predict a of multi-steps: 3.45534
+MSE when predict v of multi-steps: 1.63836
+MSE when predict y of multi-steps: 638.25551
+
+2023-11-04 15:21:43 FVD
+MSE when predict a of single-steps: 1.69838
+MSE when predict a of multi-steps: 2.26895
+MSE when predict v of multi-steps: 1.28632
+MSE when predict y of multi-steps: 635.49619
+
+2023-11-04 15:23:17 FVD
+MSE when predict a of single-steps: 1.75709
+MSE when predict a of multi-steps: 2.43749
+MSE when predict v of multi-steps: 1.33938
+MSE when predict y of multi-steps: 635.72428
+
+2023-11-04 15:27:12 IDM
+MSE when predict a of multi-steps: 0.46150
+MSE when predict v of multi-steps: 0.46549
+
+2023-11-04 15:28:12 IDM
+MSE when predict a of multi-steps: 0.47273
+MSE when predict v of multi-steps: 0.46228
+
+2023-11-04 15:33:28 IDM
+MSE when predict a of multi-steps: 0.46524
+MSE when predict v of multi-steps: 0.46548
+
+2023-11-04 15:34:09 IDM
+MSE when predict a of multi-steps: 0.34198
+MSE when predict v of multi-steps: 0.41842
+
+2023-11-04 15:34:57 IDM
+MSE when predict a of multi-steps: 0.33706
+MSE when predict v of multi-steps: 0.42159
+
+2023-11-04 15:36:35 IDM
+MSE when predict a of multi-steps: 0.33876
+MSE when predict v of multi-steps: 0.42313
+
+2023-11-04 15:38:17 IDM
+MSE when predict a of multi-steps: 0.34749
+MSE when predict v of multi-steps: 0.41741
+
+2023-11-04 15:39:44 IDM
+MSE when predict a of multi-steps: 0.34311
+MSE when predict v of multi-steps: 0.41915
+
+2023-11-04 15:40:28 IDM
+MSE when predict a of multi-steps: 0.34488
+MSE when predict v of multi-steps: 0.42049
+
+2023-12-07 19:04:35
+MSE when predict a of multi-steps: 5114514932637738594127891394715713730795898689943647370965155840.00000
+MSE when predict v of multi-steps: 13537478176176398392516840121322296434688490733568.00000

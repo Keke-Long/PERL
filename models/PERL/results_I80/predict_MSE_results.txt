@@ -1,0 +1,43 @@
+PERL(IDM+LSTM)
+
+2023-08-06 20:41:55
+MSE when predicting multi steps acceleration: 0.07165840015803505
+MSE when predicting first acceleration: 0.014410687409050169
+
+2023-08-08 22:03:24
+MSE when predict multi-step a: 0.08187263448595139
+MSE when predict first a: 0.02396021234052687
+MSE when predict multi-step v: 0.007461529510707924
+MSE when predict first v: 0.0014708153685360882
+MSE when predict multi-step y: 15.108930706819734
+MSE when predict first y: 9.490795695227735
+
+2023-08-08 22:04:56
+MSE when predict multi-step a: 0.08187263448595139
+MSE when predict first a: 0.02396021234052687
+MSE when predict multi-step v: 0.007461529510707924
+MSE when predict first v: 0.0014708153685360882
+MSE when predict multi-step y: 15.108930706819734
+MSE when predict first y: 9.490795695227735
+
+2023-08-09 00:30:21
+MSE when predict multi-step a: 0.07500638644268587
+MSE when predict first a: 0.017332936712176592
+MSE when predict multi-step v: 0.007400516980595029
+MSE when predict first v: 0.0013798163564911756
+MSE when predict multi-step y: 15.108896233074336
+MSE when predict first y: 9.490705284552051
+
+change:
+Add the following to LSTM model
+model.add(BatchNormalization())
+model.add(LSTM(64, return_sequences=False))
+
+2023-08-09 00:34:40
+MSE when predict multi-step a: 0.06946009592506056
+MSE when predict first a: 0.008758365310227209
+MSE when predict multi-step v: 0.00735960574441861
+MSE when predict first v: 0.0013211821928657227
+MSE when predict multi-step y: 15.108964465579376
+MSE when predict first y: 9.490636959040435
+
